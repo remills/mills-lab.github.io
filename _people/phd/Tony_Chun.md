@@ -7,8 +7,8 @@ line1: M.S., University of Michigan
 line2: B.A., Kalamazoo College
 google-scholar: 
 CV:
-linked-in: 
-twitter:
-email:
+linked-in: tony-chun-59a05128
+twitter: stonyc
+email: stonyc@umich.edu
 start-date: 2013-06-01
 ---

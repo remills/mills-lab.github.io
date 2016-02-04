@@ -2,7 +2,7 @@
 publish: true
 name: Marcus Sherman
 title: Bioinformatics Rotation Student
-picture: placeholder.png
+picture: Marcus_Sherman_pic.jpg
 line1: B.S., [Update Needed]
 line2: 
 google-scholar: 
