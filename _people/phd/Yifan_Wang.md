@@ -2,7 +2,7 @@
 publish: true
 name: Yifan Wang
 title: Human Genetics Candidate
-picture: Yifan_Wang_pic.jpg
+picture: Yifan_Wang_pic.png
 line1: B.S., [Updated Needed]
 line2:
 google-scholar: 
