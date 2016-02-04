@@ -138,9 +138,9 @@ vertical-align: middle;
 line-height: 250px;
 }
 
-.column-left{ float: left; width: 32%;}
-.column-right{ float: right; width: 32%; }
-.column-center{ display: inline-block; width: 33%;}
+.column-left{ float: left; width: 48%;}
+.column-right{ float: right; width: 48%; }
+.column-center{ display: inline-block; width: 4%;}
 .column-narrow{ float:center; width:66%;}
 .align-left{ text-align: left;}
 .yellow-bar { align:center; width:50px; border-bottom:4px solid #FFCB05; margin-bottom:5px; }
