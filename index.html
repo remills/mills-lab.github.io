@@ -16,19 +16,22 @@ layout: default
 </div>
 
 <div class="row">
-	<div class="column-left">
-		<a href="news/"><h4><i>News</i></h4></a>
-		<center><p class="yellow-bar"></p><center>
-		{% for post in site.posts limit:3 %}
-        	<p class="align-left">
-		<i><font color="#888">{{ post.date | date: "%B %d, %Y" }} - </font></i> {{ post.title }}
-		</p>
-		{% endfor %}
-	</div>
-	<div class="column-right">
+	<div class="column-narrow">
         	<a href="contact.html"><h4><i>Find Us</i></h4></a>
 		<center><p class="yellow-bar"></p><center>
 		<p class="align-left">The Mills Lab is located in the Palmer Commons Building between central campus and the Medical School.</p>
-		<p><i><a href="contact.html">View Map</a><br><a href="http://palmercommons.umich.edu/article/driving-directions">Parking Information</a></i></p>
+		<p><i><a href="http://palmercommons.umich.edu/article/driving-directions"><br>>Parking Information</a><a href="contact.html">View Map</a></i></p>
 	</div>
+</div>
+
+<div class="row">
+        <div class="column-narrow">
+                <a href="news/"><h4><i>News</i></h4></a>
+                <center><p class="yellow-bar"></p><center>
+                {% for post in site.posts limit:5 %}
+                <p class="align-left">
+                <i><font color="#888">{{ post.date | date: "%B %d, %Y" }} - </font></i> {{ post.title }}
+                </p>
+                {% endfor %}
+        </div>
 </div><!-- end row -->
