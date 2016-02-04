@@ -1,1 +1,51 @@
-Hello World
+---
+title: Home
+layout: default
+---
+
+<div class="row genomics">
+	<div class="column-narrow">
+	       	<h4><i>Welcome</i></h4>
+		<center><p class="yellow-bar"></p><center>
+		<p><i>
+		Our research group is primarily focused on the analysis of whole genome sequence data to identify genetic variation (primarily structural variation) and examine their potential functional impact in disease phenotypes.
+		We are particularly interested in analyzing complex regions of the genome that are not easily resolved through modern sequencing approaches and which may exhibity interesting mechanistic origins.
+		We are also interested in the large-scale integration of genomic, expression, methylation and proteomic data sets, as well as the application of whole genome sequence analysis in clinical diagnostics.
+		</i></p>
+	</div>
+</div>
+
+<div class="row PI">
+	<div class="column-narrow">
+	       	<h4><i>From Principal Investigator, Ryan E. Mills, Ph.D.</i></h4>
+		<center><p class="gray-bar"></p></center>
+		<p class="align-left">
+		</p>
+		<p class="right-link">
+		<font color="#FFCB05">|</font> <a href="research.html"><i><b>Learn More</b></i></a>
+		</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="column-center">
+        	<a href="publications.html"><h4><i>Our Work</i></h4></a>
+		<center><p class="yellow-bar"></p><center>
+        	<p><img src="assets/images/Fseq.gif" width="200px"></p>
+    	</div>
+	<div class="column-left">
+		<a href="news/"><h4><i>News</i></h4></a>
+		<center><p class="yellow-bar"></p><center>
+		{% for post in site.posts limit:3 %}
+        	<p class="align-left">
+		<i><font color="#888">{{ post.date | date: "%B %d, %Y" }} - </font></i> {{ post.title }}
+		</p>
+		{% endfor %}
+	</div>
+	<div class="column-right">
+        	<a href="contact.html"><h4><i>Find Us</i></h4></a>
+		<center><p class="yellow-bar"></p><center>
+		<p class="align-left">The Mills Lab is located in the Palmer Commons Building between central campus and the Medical School.</p>
+		<p><i><a href="contact.html">View Map</a><br><a href="http://palmercommons.umich.edu/article/driving-directions">Parking Information</a></i></p>
+	</div>
+</div><!-- end row -->
