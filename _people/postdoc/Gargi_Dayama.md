@@ -2,7 +2,7 @@
 publish: true
 name: Gargi Dayama
 title: Post-doctoral Fellow
-picture: Gargi_Dayama_pic.jpg
+picture: Gargi_Dayama_pic.png
 line1: Ph.D., [Update Needed]
 line2: 
 google-scholar: 
