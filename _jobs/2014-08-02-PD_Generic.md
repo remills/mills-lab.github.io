@@ -5,7 +5,7 @@ pdf:
 ---
 
 <p>
-In addition to the position listed above, we are always on the search for stellar candidates with interests in computational genomics both in our wet lab and dry lab. 
+We welcome inquiries from highly motivated and create postdoctoral candidates with interests in computational genomics and bioinformatics.
 <br><br>
-To apply, send a CV, cover letter describing your research experiences and ongoing research interests, a 1-2 page research plan, and contact information for three references to Alan Boyle at apboyle@umich.edu.
+To apply, send a CV, cover letter describing your research experiences and ongoing research interests, a 1-2 page research plan, and contact information for three references to Ryan Mills at remills@med.umich.edu.
 </p>
