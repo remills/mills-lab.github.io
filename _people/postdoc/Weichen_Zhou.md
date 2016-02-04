@@ -1,9 +1,9 @@
 ---
 publish: true
 name: Weichen Zhou
-title: Post-doctoral Fellow
+title: Ph.D., [Update Needed]
 picture: Weichen_Zhou_pic.jpg
-line1: Ph.D., [Update Needed]
+line1: B.A., [Update Needed]
 line2: 
 google-scholar: 
 CV:

@@ -1,10 +1,10 @@
 ---
 publish: true
 name: Ryan E. Mills, Ph.D.
-title: Assistant Professor, Computational Biology & Bioinformatics and Human Genetics
-line1: Ph.D., Georgia Institute of Technology
-line2: M.S., Georgia Institute of Technology
-line3: A.B., Wabash College
+title: Assistant Professor, DCM&B and Human Genetics
+line1: Ph.D., M.S., Georgia Institute of Technology
+line2: A.B., Wabash College
+line3: 
 picture: Ryan_Mills_pic.jpg
 google-scholar: BzjA_8kAAAAJ
 CV: mills_cv.pdf
